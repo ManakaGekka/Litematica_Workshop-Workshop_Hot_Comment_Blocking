@@ -12,7 +12,7 @@
 
 ## 安装使用
 1. 安装用户脚本管理器（[Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)）
-2. 点击[此处安装脚本](https://example.com/block-popup.user.js)
+2. 将block-popup.user.js内容复制到脚本管理器中创建新脚本，保存
 3. 刷新投影工坊页面即可生效
 
 ## 技术支持
